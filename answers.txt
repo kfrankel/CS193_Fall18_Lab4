@@ -3,11 +3,12 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 How's it going, Karinna?
 // Under this line, describe what the command 'git fetch' does
-
+This tells git to go retrieve the updated changes.
 
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+This "pushes" the new changes from the remote branch to your local branch
 
 Task 3:
 
